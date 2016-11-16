@@ -1,5 +1,5 @@
 #Write-up
-First, we had to download the [pcap file]({{ site.url }}/files/PoliCTF2015/John-In-The-Middle/john-in-the-middle.pcap) with the following message *Can John hijack your surfin'? :)*We know that a pcap file is an extracted file from Wireshark. So, we needed to analyze the network packets.
+First, we had to download the [pcap file](https://github.com/davidlebr1/ctf-writeups/blob/master/PoliCTF2015/Forensic-100-Johninthemiddle/john-in-the-middle.pcap?raw=true) with the following message *Can John hijack your surfin'? :)*We know that a pcap file is an extracted file from Wireshark. So, we needed to analyze the network packets.
 
 My first reflex with Wireshark is to verify if I can extract files that are transferred between the client and the server in the pcap file.
 
