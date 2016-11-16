@@ -3,8 +3,8 @@ At the start of the CTF, this challenge was worth 50 points, but they changed it
 
 My partner created a Python script that created many accounts. Then, it returned the cookie that we could replace with our current one. So, with that script you did not need to manually create an account to have more tokens.
 
-###Script by [MOBergeron](https://gist.github.com/MOBergeron/a34e719e4587257defab)
-{% highlight python %}
+####Script by [MOBergeron](https://gist.github.com/MOBergeron/a34e719e4587257defab)
+```
 import hashlib
 import requests
 
@@ -32,7 +32,7 @@ if __name__ == "__main__":
 		u+=1
 
 	print(r.cookies)
-{% endhighlight %}
+```
 
 Then, we just needed to buy a compass, foods and follow the compass indication to find the stairs.
 
