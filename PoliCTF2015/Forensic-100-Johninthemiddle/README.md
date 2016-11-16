@@ -23,11 +23,11 @@ Finally, the flag was in the image.
 
 The image logo.png with the flag hidden:
 
-![Logo without flag]({{ site.url }}/files/PoliCTF2015/John-In-The-Middle/logo.png)
+![logo](https://cloud.githubusercontent.com/assets/838845/20353937/7c2d31d8-abea-11e6-8178-56a8c1da777c.png)
 
 The image with the flag:
 
-![Logo with flag]({{ site.url }}/files/PoliCTF2015/John-In-The-Middle/flag.png)
+![flag](https://cloud.githubusercontent.com/assets/838845/20353940/7f1e5c50-abea-11e6-8b1a-eb4464898310.png)
 
 flag{J0hn_th3_Sn1ff3r}
 
