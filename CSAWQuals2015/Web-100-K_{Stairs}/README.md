@@ -1,20 +1,3 @@
----
-layout: post
-title:  "CSAW - K_{Stairs}"
-date:   2015-09-21 19:00
-categories: csaw2015
-tags: security ctf csaw2015 cryptography
-description: A web challenge for 100 points
----
-
-**Category** : Web 
-
-**Points** : 100
-
-**Contributor** : [Marc Olivier Bergeron](https://github.com/MOBergeron)
-
-***
-
 #Write-up
 At the start of the CTF, this challenge was worth 50 points, but they changed it for 100 points. We realized that when you register/logout you get three more tokens each time. In that challenge, we needed 10 tokens to buy a compass and one token for a pack of five food item.
 
