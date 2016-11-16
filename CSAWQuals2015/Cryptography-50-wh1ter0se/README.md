@@ -1,20 +1,3 @@
----
-layout: post
-title:  "CSAW - wh1ter0se"
-date:   2015-09-20 22:00
-categories: csaw2015
-tags: security ctf csaw2015 cryptography
-description: Cryptography challenge for 50 points
----
-
-**Category** : Cryptography 
-
-**Points** : 50
-
-**Note**: The flag is the entire thing decrypted.
-
-***
-
 #Write-up
 When we opened the challenge we had this [file]({{ site.url }}/files/CSAW2015/crypto50-wh1ter0se/eps1.7_wh1ter0se_2b007cf0ba9881d954e85eb475d0d5e4.m4v) to download.
 
